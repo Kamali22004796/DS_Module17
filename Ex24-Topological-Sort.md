@@ -112,7 +112,8 @@ int main()
 ```
 
 ## Output:
-![alt text](image-3.png)
+
+<img width="1054" height="481" alt="image" src="https://github.com/user-attachments/assets/aa573cf2-79a7-4aee-a4b7-f05991419712" />
 
 
 ## Result:
